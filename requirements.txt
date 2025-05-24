@@ -1,0 +1,7 @@
+pandas
+openpyxl
+transformers
+torch
+faiss-cpu
+numpy
+scikit-learn
