@@ -68,8 +68,8 @@ This explicit command-based approach ensures reliable and predictable behavior, 
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    git clone [https://github.com/BUVANESHWARAN-B/HSN_Validate-Agent-.git](https://github.com/BUVANESHWARAN-B/HSN_Validate-Agent-.git)
-    cd HSN_Validate-Agent-
+    git clone [https://github.com/BUVANESHWARAN-B/HSN_Validate-Agent.git](https://github.com/BUVANESHWARAN-B/HSN_Validate-Agent.git)
+    cd HSN_Validate-Agent
     ```
 
 2.  **Install required Python packages:**
