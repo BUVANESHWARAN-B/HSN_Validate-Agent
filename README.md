@@ -74,16 +74,8 @@ This explicit command-based approach ensures reliable and predictable behavior, 
 
 2.  **Install required Python packages:**
     ```bash
-    pip install pandas openpyxl transformers torch faiss-cpu numpy scikit-learn
+    pip install requirements.txt
     ```
-    * `pandas`: For data loading and manipulation.
-    * `openpyxl`: Required by pandas to read `.xlsx` files.
-    * `transformers`: To load the pre-trained Sentence Transformer model.
-    * `torch`: The underlying framework for the transformer model.
-    * `faiss-cpu`: For efficient similarity search (CPU version). If you have a GPU and CUDA installed, you can use `faiss-gpu` instead for faster performance.
-    * `numpy`: For numerical operations.
-    * `scikit-learn`: For `normalize` function (used in embeddings).
-
 
 ## Usage
 
